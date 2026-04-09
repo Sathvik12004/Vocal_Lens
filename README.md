@@ -1,4 +1,4 @@
-# 🕶️ Vocal Lens — Smart Glasses for the Visually Impaired
+#  Vocal Lens — Smart Glasses for the Visually Impaired
 
 > A real-time, voice-interactive assistive vision system powered by YOLOv8, running entirely on a CPU-only machine.
 
