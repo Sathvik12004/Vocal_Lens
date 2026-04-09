@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML / YOLO model weights (auto-downloaded, don't commit)
+*.pt
+*.onnx
+*.engine
+runs/
+
+# Test images / videos
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+
+# Logs
+*.log
